@@ -5,10 +5,8 @@ These are personally curated iptv streams that are public. Since they are person
 Create your own IPTV playlists from the repository at https://github.com/iptv-org/iptv
 
 Channel m3u Hosts:
-- KTV Default: https://raw.githubusercontent.com/k21018465/ktv/main/ktv.m3u
-      Updated March 03 2022
-- KTV Adult: https://raw.githubusercontent.com/k21018465/ktv/main/ktv-adult.m3u
-      Updated March 03 2022
+- KTV Default: https://raw.githubusercontent.com/k21018465/ktv/main/ktv.m3u <code>Updated March 03 2022</code>
+- KTV Adult: https://raw.githubusercontent.com/k21018465/ktv/main/ktv-adult.m3u <code>Updated March 03 2022</code>
 - Pluto TV (Hosted at iptv-org): https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u
 - Tubi Local Stations (Hosted at iptv-org): https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tubi.m3u
 - Hypnotix Provider (Hosted at Free-tv): https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
