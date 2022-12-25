@@ -24,9 +24,9 @@ https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" group-title="Sports",Real Madrid TV US Version (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
-#EXTINF:-1 tvg-id="WGRZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/512px-NBC_Peacock_1986.svg.png" group-title="Undefined",NBC 2 Buffalo NY (WGRZ) (1080p)
+#EXTINF:-1 tvg-id="WGRZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/512px-NBC_Peacock_1986.svg.png" group-title="Sports",NBC 2 Buffalo NY (WGRZ) (1080p)
 https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="KINGDT1.us" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg" group-title="Undefined",NBC 5 Seattle WA (KING) (1080p)
+#EXTINF:-1 tvg-id="KINGDT1.us" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg" group-title="Sports",NBC 5 Seattle WA (KING) (1080p)
 https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMLB.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports",Pluto TV MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
