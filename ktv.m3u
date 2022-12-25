@@ -20,6 +20,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c26
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",beIN Sports Xtra (1080p)
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1 tvg-id="KIIIDT1.us" tvg-logo="https://i.imgur.com/svfSv3O.jpg" group-title="Sports",ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" group-title="Sports",Real Madrid TV US Version (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="Sports",ABC Sports
